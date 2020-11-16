@@ -1,0 +1,4 @@
+suite: folderofyaml
+test:
+  ref: self
+  filename: foldertest1.yaml

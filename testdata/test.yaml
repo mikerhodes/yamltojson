@@ -1,0 +1,16 @@
+# Taken as example from https://yaml.org/
+
+YAML: YAML Ain't Markup Language
+
+What It Is: YAML is a human friendly data serialization
+  standard for all programming languages.
+
+YAML Resources:
+  YAML 1.2 (3rd Edition): http://yaml.org/spec/1.2/spec.html
+  YAML 1.1 (2nd Edition): http://yaml.org/spec/1.1/
+
+Projects:
+  Golang:
+  - Go-yaml            # YAML support for the Go language.
+  - Go-gypsy           # Simplified YAML parser written in Go.
+  - goccy/go-yaml      # YAML 1.2 implementation in pure Go.
